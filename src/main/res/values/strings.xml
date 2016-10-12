@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Spark</string>
+    <string name="title_activity_main">BT Data Comm</string>
+    <string name="btn_ON">LED ON</string>
+    <string name="btn_OFF">LED OFF</string>
+    <string name="Label_dataSensor1">xAccel:</string>
+    <string name="Label_dataSensor2">yAccel:</string>
+    <string name="Label_dataSensor3">zAccel:</string>
+    <string name="data_unknown">x</string>
+    <string name="Light_detection">Darkness Detection:</string>
+    <string name="Motion_detection">Motion Detection:</string>
+    <string name="Light_stat">Light Status:</string>
+    <string name="Light_data">x</string>
+</resources>
